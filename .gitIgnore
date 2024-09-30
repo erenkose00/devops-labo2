@@ -1,0 +1,5 @@
+pkg
+bin
+bin/z.xml
+*.md
+backup
